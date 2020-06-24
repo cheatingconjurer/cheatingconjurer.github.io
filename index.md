@@ -8,3 +8,4 @@ is a very good and special character.
 * very
 * random
 > Hi, I say someting
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/RandomBitmap.png">
